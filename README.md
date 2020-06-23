@@ -1,1 +1,1 @@
-# Sample_Maven_Prpject
+# Sample_Maven_Project
